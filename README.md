@@ -25,6 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Nunes-dev&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Nunes-dev&layout=compact&theme=tokyonight&hide_border=false"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Arthur-Nunes-dev&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arthur-Nunes-dev&theme=tokyonight&row=2&column=3" />
 </div>
 
 
@@ -46,4 +47,6 @@
 ---
 
 > “Primeiro você sonha. Depois, você codifica.” 🚀
+
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200"/>
 
